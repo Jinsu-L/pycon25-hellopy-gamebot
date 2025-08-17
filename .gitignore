@@ -1,0 +1,39 @@
+# Byte-code files
+*.pyc
+__pycache__/
+*.pyd
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+.venv/
+*.env
+.env
+
+# Tests
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Playwright specific
+playwright-report/
